@@ -1,0 +1,31 @@
+
+body {
+    background-color: linen;
+    }
+h1 {
+   text-align: center;
+}
+
+h2 {
+    color: rgb(146, 146, 22);
+    text-align: center;
+}
+
+li{
+    background-color: bisque;
+    padding: 5px;
+    border: 5px Solid rgb(233, 164, 164)
+}
+
+img{
+    width: 1000px;
+    margin: auto;
+    display: block;
+    border: 4px solid rgb(105, 105, 212);
+    padding: 3px;
+}
+
+ul{
+    margin: auto;
+    display: table
+}
